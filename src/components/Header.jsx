@@ -7,7 +7,7 @@ export default function Header() {
     <>
       <header className="header">
         <Link to="/" className="title-link">
-          <h1 className="title">Last Ditch Dog's</h1>
+          <h1 className="title">Last Ditch Dogs</h1>
         </Link>
         <nav className="nav-links">
           <a 
